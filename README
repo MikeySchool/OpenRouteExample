@@ -1,4 +1,7 @@
 $ npm install
 $ npm install -g nodemon
+
+SET ENVIRONMENT VARIAIBLES in .env (just new api key)
+
 $ nodemon server
 
